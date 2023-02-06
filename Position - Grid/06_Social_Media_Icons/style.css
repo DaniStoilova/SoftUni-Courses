@@ -1,0 +1,29 @@
+@import url(https://use.fontawesome.com/releases/v5.6.3/css/all.css);
+ul *{
+    display: inline-block;
+    font-size: 24px;
+    
+}
+ul li a{
+border: 20px solid lightgray;
+background-color: lightgray;
+border-radius: 50%;
+margin-right: 20px;
+color: black;
+}
+.google:hover{
+color: red;
+}
+.invision:hover{
+    color: lightskyblue;
+    }
+    .facebook:hover{
+        color: blue;
+        }
+        .twitter:hover{
+            color: lightskyblue;
+        }
+        .instagram:hover{
+            color: blue;
+        }
+    
