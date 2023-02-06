@@ -1,0 +1,21 @@
+
+.book{
+width: 400px;
+background: #dddddd;
+border: 1px solid #000000;
+margin-left: 20px;
+padding: 10px;
+
+}
+.book p{
+    font-size: 18px;
+}
+.book h1{
+   text-align: center;
+}
+/* q::before{
+    content: open-quote;
+}
+q::after{
+    content: close-quote;
+} */
