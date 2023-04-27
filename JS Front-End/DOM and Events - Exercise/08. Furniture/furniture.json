@@ -1,0 +1,15 @@
+[
+    {
+        "img":"https://images.demandware.net/dw/image/v2/BBBV_PRD/on/demandware.static/-/Sites-master-catalog/default/dwd633af54/images/700000/704909.jpg?sw=2000",
+        "name": "Sofa",
+        "price": "259",
+        "decFactor":"0.4"
+
+    },
+    {
+        "img":"https://www.stylespafurniture.com/wp-content/uploads/2020/03/Cove_3_Door_Wardrobe_1.jpg",
+        "name": "Wardrobe",
+        "price": "120",
+        "decFactor":"1.2"
+    }
+]
