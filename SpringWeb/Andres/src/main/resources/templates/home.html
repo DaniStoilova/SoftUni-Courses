@@ -1,0 +1,34 @@
+
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org">
+<head th:replace="~{fragments/commons::head}"></head>
+<body>
+<header th:replace="~{fragments/commons::nav}"></header>
+    <main>
+        <h1 class="text-center mt-2"><span class="badge badge-pill badge-dark">Items</span></h1>
+        <h1 class="text-center mt-2"><span class="badge badge-pill badge-dark" th:text="|Total count of items: ${allItems.size()}|" >Total count of items: 3</span></h1>
+        <hr class="hr-3"/>
+        <div th:each="c : ${allItems}" class="container-fluid">
+            <div class="offer row mx-auto d-flex flex-row justify-content-center">
+                <div class="offer card col-sm-6-md-3 col-lg-2 m-1 p-0">
+                <a th:href="@{/detail/{id}(id = ${c.id})}">
+                    <div class="card-img-top-wrapper">
+                    <img th:class="card-img-top" th:src="*{c.url}" class="img-thumbnail" alt="image"/>
+                    </div>
+                <div class="card-body pb-1">
+                 <h5 class="card-title text-center" th:text="|Item name - *{c.name}|">Item name</h5>
+             </div>
+                <ul class="offer-details list-group list-group-flush">
+                    <li class="list-group-item">
+                        <div th:text="|*{c.price}|" class="card-text text-center"><span >Item price</span></div>
+                    </li>
+                </ul>
+                </a>
+             </div>
+        </div>
+    </main>
+    <span style="visibility: hidden">...</span>
+    <ui:include src="templates/footer.xhtml"/>
+</body>
+</html>
