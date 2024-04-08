@@ -1,0 +1,646 @@
+{
+  "usersCount": 41,
+  "users": [
+    {
+      "firstName": "Jacqueline",
+      "lastName": "Perez",
+      "age": 25,
+      "soldProducts": {
+        "count": 4,
+        "products": [
+          {
+            "name": "olio activ mouthwash",
+            "price": 206.06
+          },
+          {
+            "name": "kirkland signature minoxidil",
+            "price": 49.17
+          },
+          {
+            "name": "CD CAPTURE TOTALE Triple Correcting Serum Foundation Wrinkles-Dark Spots-Radiance with sunscreen Broad Spectrum SPF 25 010",
+            "price": 77.23
+          },
+          {
+            "name": "Allopurinol",
+            "price": 336.81
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Ann",
+      "lastName": "Stevens",
+      "age": 0,
+      "soldProducts": {
+        "count": 3,
+        "products": [
+          {
+            "name": "MOIST MOISTURE SKIN TONER",
+            "price": 152.43
+          },
+          {
+            "name": "Peter Island Continous sunscreen kids",
+            "price": 471.30
+          },
+          {
+            "name": "Etomidate",
+            "price": 393.94
+          }
+        ]
+      }
+    },
+    {
+      "lastName": "Baker",
+      "age": 0,
+      "soldProducts": {
+        "count": 2,
+        "products": [
+          {
+            "name": "ROPINIROLE HYDROCHLORIDE",
+            "price": 266.44
+          },
+          {
+            "name": "Yellow Jacket hymenoptera venom Venomil Diagnostic",
+            "price": 23.58
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Bonnie",
+      "lastName": "Fox",
+      "age": 18,
+      "soldProducts": {
+        "count": 2,
+        "products": [
+          {
+            "name": "REYATAZ",
+            "price": 41.97
+          },
+          {
+            "name": "ANXIETY/STRESS RELIEF",
+            "price": 324.66
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Patricia",
+      "lastName": "Fuller",
+      "age": 36,
+      "soldProducts": {
+        "count": 2,
+        "products": [
+          {
+            "name": "Protonix",
+            "price": 466.70
+          },
+          {
+            "name": "allergy eye",
+            "price": 426.91
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Kathy",
+      "lastName": "Gilbert",
+      "age": 51,
+      "soldProducts": {
+        "count": 2,
+        "products": [
+          {
+            "name": "Metaxalone",
+            "price": 79.94
+          },
+          {
+            "name": "CEDAX",
+            "price": 342.86
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Nicole",
+      "lastName": "Harris",
+      "age": 43,
+      "soldProducts": {
+        "count": 2,
+        "products": [
+          {
+            "name": "Trihexyphenidyl Hydrochloride",
+            "price": 64.88
+          },
+          {
+            "name": "LANEIGE MYSTIC VEIL FOUNDATION",
+            "price": 20.86
+          }
+        ]
+      }
+    },
+    {
+      "lastName": "Harrison",
+      "age": 18,
+      "soldProducts": {
+        "count": 2,
+        "products": [
+          {
+            "name": "Amlodipine Besylate",
+            "price": 122.57
+          },
+          {
+            "name": "Stila Hydrating Primer Oil-Free SPF 30",
+            "price": 179.28
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Betty",
+      "lastName": "Lawson",
+      "age": 38,
+      "soldProducts": {
+        "count": 2,
+        "products": [
+          {
+            "name": "Buprenorphine hydrochloride and naloxone hydrochloride dihydrate",
+            "price": 293.33
+          },
+          {
+            "name": "BareMinerals Golden Tan matte",
+            "price": 110.93
+          }
+        ]
+      }
+    },
+    {
+      "lastName": "Moreno",
+      "age": 37,
+      "soldProducts": {
+        "count": 2,
+        "products": [
+          {
+            "name": "H-Rosacea Formula",
+            "price": 99.74
+          },
+          {
+            "name": "Fexofenadine HCl and Pseudoephedrine HCI",
+            "price": 73.07
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Joshua",
+      "lastName": "Murray",
+      "age": 41,
+      "soldProducts": {
+        "count": 2,
+        "products": [
+          {
+            "name": "ropinirole hydrochloride",
+            "price": 103.58
+          },
+          {
+            "name": "Dover Aminophen",
+            "price": 192.07
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Jennifer",
+      "lastName": "Riley",
+      "age": 0,
+      "soldProducts": {
+        "count": 2,
+        "products": [
+          {
+            "name": "Eszopiclone",
+            "price": 405.03
+          },
+          {
+            "name": "ENALAPRIL MALEATE",
+            "price": 210.42
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Sandra",
+      "lastName": "Riley",
+      "age": 74,
+      "soldProducts": {
+        "count": 2,
+        "products": [
+          {
+            "name": "Cold and Cough",
+            "price": 218.14
+          },
+          {
+            "name": "Warfarin Sodium",
+            "price": 138.83
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Jonathan",
+      "lastName": "Rodriguez",
+      "age": 0,
+      "soldProducts": {
+        "count": 2,
+        "products": [
+          {
+            "name": "ERYTHROMYCIN Base Filmtab",
+            "price": 117.84
+          },
+          {
+            "name": "Air",
+            "price": 331.53
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Thomas",
+      "lastName": "Snyder",
+      "age": 40,
+      "soldProducts": {
+        "count": 2,
+        "products": [
+          {
+            "name": "Labetalol hydrochloride",
+            "price": 436.38
+          },
+          {
+            "name": "Fluoxetine",
+            "price": 385.37
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Eugene",
+      "lastName": "Stewart",
+      "age": 65,
+      "soldProducts": {
+        "count": 2,
+        "products": [
+          {
+            "name": "Enalapril Maleate",
+            "price": 72.71
+          },
+          {
+            "name": "Goats Milk",
+            "price": 298.53
+          }
+        ]
+      }
+    },
+    {
+      "lastName": "Bennett",
+      "age": 0,
+      "soldProducts": {
+        "count": 1,
+        "products": [
+          {
+            "name": "Alternaria alternata",
+            "price": 61.24
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Anna",
+      "lastName": "Clark",
+      "age": 41,
+      "soldProducts": {
+        "count": 1,
+        "products": [
+          {
+            "name": "Burn Jel",
+            "price": 209.57
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Doris",
+      "lastName": "Cook",
+      "age": 61,
+      "soldProducts": {
+        "count": 1,
+        "products": [
+          {
+            "name": "Pioglitazone",
+            "price": 306.56
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Patricia",
+      "lastName": "Cooper",
+      "age": 72,
+      "soldProducts": {
+        "count": 1,
+        "products": [
+          {
+            "name": "PANTOPRAZOLE SODIUM",
+            "price": 293.89
+          }
+        ]
+      }
+    },
+    {
+      "lastName": "Cunningham",
+      "age": 0,
+      "soldProducts": {
+        "count": 1,
+        "products": [
+          {
+            "name": "Allopurinol",
+            "price": 48.80
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Carl",
+      "lastName": "Daniels",
+      "age": 59,
+      "soldProducts": {
+        "count": 1,
+        "products": [
+          {
+            "name": "CARBIDOPA AND LEVODOPA",
+            "price": 441.64
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Sarah",
+      "lastName": "Day",
+      "age": 33,
+      "soldProducts": {
+        "count": 1,
+        "products": [
+          {
+            "name": "ISOPROPYL ALCOHOL",
+            "price": 339.48
+          }
+        ]
+      }
+    },
+    {
+      "lastName": "Fox",
+      "age": 68,
+      "soldProducts": {
+        "count": 1,
+        "products": [
+          {
+            "name": "Leflunomide",
+            "price": 312.85
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Christine",
+      "lastName": "Gomez",
+      "age": 28,
+      "soldProducts": {
+        "count": 1,
+        "products": [
+          {
+            "name": "Buprenorphine hydrochloride",
+            "price": 391.05
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Wanda",
+      "lastName": "Harris",
+      "age": 26,
+      "soldProducts": {
+        "count": 1,
+        "products": [
+          {
+            "name": "Almond",
+            "price": 367.32
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Diana",
+      "lastName": "Harvey",
+      "age": 46,
+      "soldProducts": {
+        "count": 1,
+        "products": [
+          {
+            "name": "Glyburide",
+            "price": 95.10
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Jean",
+      "lastName": "Henry",
+      "age": 0,
+      "soldProducts": {
+        "count": 1,
+        "products": [
+          {
+            "name": "Allergena",
+            "price": 109.32
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Patrick",
+      "lastName": "King",
+      "age": 0,
+      "soldProducts": {
+        "count": 1,
+        "products": [
+          {
+            "name": "Lamotrigine Extended Release",
+            "price": 245.63
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Carl",
+      "lastName": "Lawson",
+      "age": 19,
+      "soldProducts": {
+        "count": 1,
+        "products": [
+          {
+            "name": "Irbesartan and Hydrochlorothiazide",
+            "price": 308.30
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Nicole",
+      "lastName": "Martinez",
+      "age": 28,
+      "soldProducts": {
+        "count": 1,
+        "products": [
+          {
+            "name": "Enchanted Moments Mistletoe Kisses Hand Sanitizer",
+            "price": 384.99
+          }
+        ]
+      }
+    },
+    {
+      "lastName": "Mitchell",
+      "age": 41,
+      "soldProducts": {
+        "count": 1,
+        "products": [
+          {
+            "name": "ORCHID SECRET PACT",
+            "price": 59.53
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Chris",
+      "lastName": "Mitchell",
+      "age": 59,
+      "soldProducts": {
+        "count": 1,
+        "products": [
+          {
+            "name": "Carbon Dioxide Oxygen Mixture",
+            "price": 95.49
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Emily",
+      "lastName": "Parker",
+      "age": 41,
+      "soldProducts": {
+        "count": 1,
+        "products": [
+          {
+            "name": "Gehwol med Lipidro",
+            "price": 421.24
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Billy",
+      "lastName": "Parker",
+      "age": 68,
+      "soldProducts": {
+        "count": 1,
+        "products": [
+          {
+            "name": "SNORING HP",
+            "price": 53.59
+          }
+        ]
+      }
+    },
+    {
+      "lastName": "Peterson",
+      "age": 72,
+      "soldProducts": {
+        "count": 1,
+        "products": [
+          {
+            "name": "U-max Multi BB",
+            "price": 137.16
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Arthur",
+      "lastName": "Reynolds",
+      "age": 32,
+      "soldProducts": {
+        "count": 1,
+        "products": [
+          {
+            "name": "Albuterol",
+            "price": 108.95
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Gary",
+      "lastName": "Stevens",
+      "age": 0,
+      "soldProducts": {
+        "count": 1,
+        "products": [
+          {
+            "name": "Phenylephrine HCl",
+            "price": 459.89
+          }
+        ]
+      }
+    },
+    {
+      "lastName": "Thompson",
+      "age": 46,
+      "soldProducts": {
+        "count": 1,
+        "products": [
+          {
+            "name": "Pollens - Weeds and Garden Plants, Scotch Broom Cytisus scoparius",
+            "price": 135.82
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Betty",
+      "lastName": "Ward",
+      "age": 70,
+      "soldProducts": {
+        "count": 1,
+        "products": [
+          {
+            "name": "CHAMOMILLA",
+            "price": 37.97
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Jeremy",
+      "lastName": "Woods",
+      "age": 20,
+      "soldProducts": {
+        "count": 1,
+        "products": [
+          {
+            "name": "PredniSONE",
+            "price": 286.43
+          }
+        ]
+      }
+    }
+  ]
+}
